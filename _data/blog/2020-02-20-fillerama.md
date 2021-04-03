@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /fillerama
-date: 2020-02-20T14:59:36.571Z
+date: 2020-01-01T14:59:36.571Z
 title: Dummy Content from Fillerama
 thumbnail: /assets/c4e2294df196ded4463bad86cc3a10ac.jpeg
 ---

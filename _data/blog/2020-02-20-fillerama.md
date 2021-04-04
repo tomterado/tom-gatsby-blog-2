@@ -3,7 +3,7 @@ template: BlogPost
 path: /fillerama
 date: 2021-01-01T14:59:36.571Z
 title: 'First Post: "I"'
-thumbnail: /assets/c4e2294df196ded4463bad86cc3a10ac.jpeg
+thumbnail: /assets/image 13.jpg
 ---
 # First Post: "I"
 

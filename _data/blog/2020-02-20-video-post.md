@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /learning-unlearning
-date: 2020-02-20T15:05:49.332Z
+date: 2021-01-04T15:05:49.332Z
 title: Learning and Unlearing
 thumbnail: /assets/man-working-from-home (1).jpg
 ---
